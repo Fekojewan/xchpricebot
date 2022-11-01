@@ -7,8 +7,8 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
 //** documents*/
 const currency = 'usd'
-const coin = 'bitcoin'
-const token = ''
+const coin = 'chia'
+const token = 'MTAzNjk3NTkzNTQ1NjU0NjkwNw.GUXuY0.AV9J7Gm4iHuG86Jo0bPztQ0amkyHezjEDR_21M'
 const prefix = '$'
 
 /* function */ 
