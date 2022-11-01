@@ -8,7 +8,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 //** documents*/
 const currency = 'usd'
 const coin = 'chia'
-const token = 'MTAzNjk3NTkzNTQ1NjU0NjkwNw.GUXuY0.AV9J7Gm4iHuG86Jo0bPztQ0amkyHezjEDR_21M'
+const token = 'MTAzNjk3ODM4OTM4ODY0NDM2Mg.Gr5GUF.Iiz-vjsv6fLp6kT2619p4EK0tkrz1AFTaVsw2g'
 const prefix = '$'
 
 /* function */ 
