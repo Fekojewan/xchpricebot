@@ -82,4 +82,4 @@ client.on('ready', () => {
     setInterval(() => Prices(),  60000) 
 })
 
-client.login(`${token}`)
+client.login(`MTAzNjk3ODM4OTM4ODY0NDM2Mg.Gr5GUF.Iiz-vjsv6fLp6kT2619p4EK0tkrz1AFTaVsw2g`)
